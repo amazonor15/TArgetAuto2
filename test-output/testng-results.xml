@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16186" started-at="2020-03-26T15:47:09 EDT" finished-at="2020-03-26T15:47:26 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16186" started-at="2020-03-26T15:47:09 EDT" finished-at="2020-03-26T15:47:26 EDT">
+      <class name="allTest.TestHomePage">
+        <test-method status="PASS" signature="ValidateSearching()[pri:0, instance:allTest.TestHomePage@63e2203c]" name="ValidateSearching" duration-ms="8686" started-at="2020-03-26T15:47:09 EDT" finished-at="2020-03-26T15:47:18 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateSearching -->
+        <test-method status="PASS" signature="validateTitle()[pri:0, instance:allTest.TestHomePage@63e2203c]" name="validateTitle" duration-ms="3811" started-at="2020-03-26T15:47:18 EDT" finished-at="2020-03-26T15:47:22 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTitle -->
+        <test-method status="PASS" signature="coolOff()[pri:0, instance:allTest.TestHomePage@63e2203c]" name="coolOff" is-config="true" duration-ms="3652" started-at="2020-03-26T15:47:22 EDT" finished-at="2020-03-26T15:47:26 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- coolOff -->
+      </class> <!-- allTest.TestHomePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
